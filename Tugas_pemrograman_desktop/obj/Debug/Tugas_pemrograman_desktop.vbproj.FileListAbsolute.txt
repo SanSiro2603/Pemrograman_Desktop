@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\bin\Debug\Tugas_pemrograman_desktop.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\bin\Debug\Tugas_pemrograman_desktop.exe
+c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\bin\Debug\Tugas_pemrograman_desktop.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\bin\Debug\Tugas_pemrograman_desktop.xml
+c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\obj\Debug\Tugas_pemrograman_desktop.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\obj\Debug\Tugas_pemrograman_desktop.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\obj\Debug\Tugas_pemrograman_desktop.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\obj\Debug\Tugas_pemrograman_desktop.exe
+c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\obj\Debug\Tugas_pemrograman_desktop.xml
+c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\obj\Debug\Tugas_pemrograman_desktop.pdb
