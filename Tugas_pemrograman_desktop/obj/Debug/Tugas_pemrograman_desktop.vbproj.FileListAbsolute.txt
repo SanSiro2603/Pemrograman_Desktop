@@ -8,3 +8,5 @@ c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tu
 c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\obj\Debug\Tugas_pemrograman_desktop.exe
 c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\obj\Debug\Tugas_pemrograman_desktop.xml
 c:\users\asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\obj\Debug\Tugas_pemrograman_desktop.pdb
+C:\Users\Asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\obj\Debug\Tugas_pemrograman_desktop.Form2.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\Tugas_pemrograman_desktop\Tugas_pemrograman_desktop\obj\Debug\Tugas_pemrograman_desktop.Tugas3.resources
